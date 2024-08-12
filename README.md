@@ -35,3 +35,9 @@ The final model was deployed using Streamlit. The application allows users to in
 1. Ensure all dependencies are installed:
    ```bash
    pip install -r requirements.txt
+   
+2. Run the Streamlit application
+   ```bash
+   streamlit run app.py
+   
+
