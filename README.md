@@ -15,31 +15,6 @@ This project focuses on customer segmentation using various clustering methods. 
 4. **Model Saving and Pipeline Creation:** Developed a pipeline using the `ColumnTransformer` class to preprocess new customer data before passing it to the model.
 5. **Deployment:** Deployed the model using Streamlit, creating an interactive web application for customer segmentation.
 
-## Project Structure
-customer-segmentation/
-│
-├── data/
-│ └── customer_data.csv # Raw data file
-│
-├── notebooks/
-│ ├── 01_eda.ipynb # Exploratory Data Analysis
-│ ├── 02_data_cleaning.ipynb # Data Cleaning
-│ ├── 03_clustering_techniques.ipynb # Clustering Techniques
-│ ├── 04_model_building.ipynb # Predictive Model Building
-│ ├── 05_pipeline_creation.ipynb # Pipeline Creation
-│ └── 06_deployment.ipynb # Deployment Steps
-│
-├── src/
-│ ├── preprocessing.py # Data Preprocessing Functions
-│ ├── clustering.py # Clustering Methods Implementation
-│ ├── model_building.py # Predictive Model Code
-│ ├── pipeline.py # Pipeline for Data Transformation
-│ └── deployment.py # Deployment Script
-│
-├── app.py # Streamlit Application
-├── requirements.txt # Required Libraries
-└── README.md # Project Documentation
-
 ## Dataset
 The dataset consists of customer information such as age, income, spending score, and other relevant features. This data was used to perform customer segmentation and build the predictive model. [Link to the dataset if available]
 
