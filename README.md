@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 If you have any questions or suggestions, please reach out:
 
-- **Pradnyan Thakare** - [LinkedIn](https://www.linkedin.com/in/pradnyan-thakare) | [GitHub](https://github.com/yourusername)
+- **Pradnyan Thakare** - [LinkedIn](https://www.linkedin.com/in/pradnyanthakare) | [GitHub](https://github.com/Thakarepradnyan)
 
 
