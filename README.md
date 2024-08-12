@@ -39,5 +39,33 @@ The final model was deployed using Streamlit. The application allows users to in
 2. Run the Streamlit application
    ```bash
    streamlit run app.py
+
+## Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Thakarepradnyan/customer_segmentation_P416.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd customer-segmentation
+
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
    
+## Usage
+- Run the Jupyter notebooks in the `notebooks` directory to replicate the analysis.
+- Launch the Streamlit application for real-time customer segmentation predictions.
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+If you have any questions or suggestions, please reach out:
+
+- **Pradnyan Thakare** - [LinkedIn](https://www.linkedin.com/in/pradnyan-thakare) | [GitHub](https://github.com/yourusername)
+
 
