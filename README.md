@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+# End to EndCustomer Segmentation Project
 
 ## Overview
 This project is a part of my Data Science course at ExcelR Edtech Pvt. Ltd. Pune which focuses on customer segmentation using various clustering methods. The main goal is to analyze customer data, group similar customers together, and build a predictive model that can classify new customers into these groups. 
